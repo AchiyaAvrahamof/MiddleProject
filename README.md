@@ -35,15 +35,24 @@ In the project directory, you can run:
 
 
 
-main page show all the products and can filter by Type
+Reviews
 
 
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666168701/2022-10-19_5_jnr0og.png)
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_12_wieqwr.png)
 
 
-product page shows all the data and allows you to give a bid 
+photos
 
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666169269/2022-10-19_6_gnrcyb.png)
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_14_yy2aey.png)
+
+
+plece event
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187337/2022-10-19_13_k4gum7.png)
+
+
+Calendar
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187336/2022-10-19_15_caowty.png)
+
 
 ## Technologies <a name="Technologies"></a>
    Client:
@@ -67,6 +76,4 @@ product page shows all the data and allows you to give a bid
    -mongoDB
    
 ## What next <a name="next"></a>
-- [x] create my product page
-- [ ] make top bided section
-- [ ] send email to the seller
+
