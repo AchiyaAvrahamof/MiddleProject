@@ -50,7 +50,13 @@ product page shows all the data and allows you to give a bid
    
    -ReactJs
    
+   -Yup
+   
+   -Formik
+   
    -Redux
+   
+   -MUI
    
    Server:
    
